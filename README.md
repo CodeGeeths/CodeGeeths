@@ -80,17 +80,6 @@ Migrated legacy services to Kubernetes/EKS, built standardized CI/CD pipeline te
 ![Ansible](https://img.shields.io/badge/Ansible%20Automation%20Platform-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CodeGeeths&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGeeths&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeGeeths&theme=tokyonight&hide_border=true" width="90%"/>
-
-</div>
-
 ---
 
 <div align="center">

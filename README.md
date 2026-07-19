@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2c5364&height=210&section=header&text=Hi%20there,%20I'm%20Geethika%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Infra%20%26%20Observability%20%7C%20AI%20Tinkerer&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2c5364&height=210&section=header&text=Hi%20there,%20I'm%20Geethika%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Infra%20and%20Observability%20%7C%20AI%20Tinkerer&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://www.linkedin.com/in/geethika-bedadhala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:bedadhalageethika26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
